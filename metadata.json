@@ -1,0 +1,6 @@
+{
+  "name": "Remix: AI Code Studio",
+  "description": "A web-based code editor with an integrated AI agent capable of creating and modifying multiple files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
